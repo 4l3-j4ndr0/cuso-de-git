@@ -1,5 +1,4 @@
 paso : {
     uno : 'pepe',
-    dos : 'juan',
-    tres: 'alejandro'
+    dos : 'juan'
 }
